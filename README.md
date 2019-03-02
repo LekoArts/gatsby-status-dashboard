@@ -5,3 +5,7 @@
 **Showing the statuses of my Netlify deploys & CircleCI tests.**
 
 Made with [gatsby-source-netlify](https://github.com/LekoArts/gatsby-source-netlify) and [gatsby-source-circleci](https://github.com/LekoArts/gatsby-source-circleci).
+
+## Preview
+
+![Preview image](./preview.jpg)
