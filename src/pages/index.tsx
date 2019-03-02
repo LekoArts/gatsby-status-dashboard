@@ -272,7 +272,7 @@ export const query = graphql`
       }
     }
     sites: allNetlifySites(
-      filter: { build_settings: { public_repo: { eq: true } }, name: { nin: ["behance-example", "css-variables"] } }
+      filter: { build_settings: { public_repo: { eq: true } } }
       sort: { fields: [name], order: ASC }
     ) {
       totalCount
