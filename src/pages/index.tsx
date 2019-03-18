@@ -179,7 +179,7 @@ const Index: React.FunctionComponent<PageProps> = ({
         <meta property="og:description" content={siteDescription} />
         <meta property="og:image" content={`${siteUrl}/social.png`} />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content="@lekoarts.de" />
+        <meta name="twitter:creator" content="@lekoarts_de" />
         <meta name="twitter:title" content={siteName} />
         <meta name="twitter:description" content={siteDescription} />
         <meta name="twitter:image" content={`${siteUrl}/social.png`} />
