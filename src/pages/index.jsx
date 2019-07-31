@@ -2,8 +2,7 @@ import React from "react"
 import { Global, css } from "@emotion/core"
 import { graphql } from "gatsby"
 import Helmet from "react-helmet"
-import Grid from "@lekoarts/gatsby-theme-status-dashboard/src/components/grid"
-import Info from "@lekoarts/gatsby-theme-status-dashboard/src/components/info"
+import { Grid, Info } from "@lekoarts/gatsby-theme-status-dashboard"
 
 const Index = ({
   data: {
@@ -83,6 +82,28 @@ const Index = ({
       </p>
       <Info />
       <Grid />
+      <footer
+        css={css({
+          textAlign: `center`,
+          marginTop: `4rem`,
+          color: `#525f74`,
+          fontFamily: `-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif`,
+          fontWeight: `400`,
+        })}
+      >
+        Copyright &copy; {new Date().getFullYear()}. All rights reserved.
+        <br />
+        <div css={css({ display: `flex`, justifyContent: `center`, alignItems: `center`, marginTop: `1.5rem` })}>
+          <img width="30" height="30" src="https://img.lekoarts.de/gatsby/logo_w30.png" alt="LekoArts Logo" />
+          {` `}
+          <a
+            css={css({ color: `#525f74`, marginLeft: `1rem`, textDecoration: `none` })}
+            href="https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-status-dashboard"
+          >
+            Theme by LekoArts
+          </a>
+        </div>
+      </footer>
     </main>
   )
 }
