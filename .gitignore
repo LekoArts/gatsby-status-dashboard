@@ -33,8 +33,9 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
-jspm_packages/
+node_modules
+jspm_packages
+**/node_modules/**
 
 # Typescript v1 declaration files
 typings/
@@ -51,21 +52,18 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
+# Yarn Integrity file
+.yarn-integrity
+
 # dotenv environment variables file
 .env
 .env.*
+!.env.example
 
-# gatsby files
-.cache/
+.cache
+**/.cache
 public
 
-# Mac files
-.DS_Store
-
-# Yarn
-yarn-error.log
-.pnp/
-.pnp.js
-# Yarn Integrity file
-.yarn-integrity
 .idea
+.vscode
+.DS_Store
