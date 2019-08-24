@@ -942,10 +942,10 @@
   dependencies:
     "@hapi/hoek" "8.x.x"
 
-"@lekoarts/gatsby-theme-status-dashboard@^0.0.14":
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-0.0.14.tgz#9c52429afffea75a98999aec0c6fbed09d468b4d"
-  integrity sha512-KOLNWqDMhJ1lbZUFR/LcHfA9tOWGCbFjznGLj+74kUAom7mzu6v0h5SqH5HpGb0611kuL0xDDiuRDdeLDgExJg==
+"@lekoarts/gatsby-theme-status-dashboard@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.1.tgz#fc205b7c4d53550ec176a8f9d23818914d781861"
+  integrity sha512-3Nh22WRLlx5OsCxAO8PUrwuOg2tRwXLpLFtHFEgfJ43Kr5asr6oYDF4fpvf/8M6BU+MGdkb3SnxtgbneKftQ9A==
   dependencies:
     "@emotion/core" "^10.0.16"
     "@mdx-js/react" "^1.3.1"
