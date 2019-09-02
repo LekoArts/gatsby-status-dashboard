@@ -1098,7 +1098,7 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.0.1":
+"@lekoarts/gatsby-theme-status-dashboard@^1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.2.tgz#6d994aa6021ce635bcbf1629ae834a7803cf52b1"
   integrity sha512-8MBmIdp5aXAAXgALZIq4wEl7C9jih4olRPuDLNNowhkSwJuadqx4m4AbkhhgGdMR2ydQVbYgbgA2jPMnbDAy0w==
