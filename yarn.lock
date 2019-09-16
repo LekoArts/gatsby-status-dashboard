@@ -942,7 +942,7 @@
   dependencies:
     "@hapi/hoek" "8.x.x"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.0.3":
+"@lekoarts/gatsby-theme-status-dashboard@^1.0.4":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.4.tgz#ecc04ab6336d65a2e1d6ad7f297dd6933ea677a1"
   integrity sha512-FhAkvnnmcyOM+AtFgZQlsYSSxZWaVn5+X7lOjJ0S7tUd78okD2cSV7iYTBTHSNKz6ZAF4JJxPjskzNeerwSWFQ==
