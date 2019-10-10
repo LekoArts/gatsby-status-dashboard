@@ -5053,9 +5053,9 @@ gatsby-source-circleci@^1.0.3:
     circleci-api "^3.3.4"
 
 gatsby-source-netlify@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-source-netlify/-/gatsby-source-netlify-1.0.3.tgz#712f2ce182d0fd4a4925094bfc54bab96f51ec02"
-  integrity sha512-Qv5nc06ochmNegS7IMn0jCnHxUKJUj9+ncKWi2SdbzzJz9sfeH/jEhvaD/48RxWmtgsakrMDF1wkRbGTjEFnwA==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-source-netlify/-/gatsby-source-netlify-1.0.4.tgz#9c0726c7cf40551dfc700159e4988bad4422aa17"
+  integrity sha512-yrMULvCHrz8YeuXYEtqlq/VlIT41hGbUY4pYbm3PDQlRyv6z8VYAQF8ecxRbFoHsnfixXXsTf+O7ccW/uO9cbw==
   dependencies:
     "@babel/runtime" "^7.4.5"
     netlify "^2.4.6"
