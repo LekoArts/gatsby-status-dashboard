@@ -983,16 +983,16 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.0.14":
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.14.tgz#c9606cc01623c650ef4cc2bffac5b0a49e86a9f7"
-  integrity sha512-UQnwqEV6gfWgwD4u3aDLrcNOkAkNc/zjYYJE6s1yPKVB9bybn3XR+PN6vpGk8tP0uZvMkiBnquN4eDHZWqebkA==
+"@lekoarts/gatsby-theme-status-dashboard@^1.0.15":
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.15.tgz#d70539e12fd60a4536e95152b83ccfddea3e4fa7"
+  integrity sha512-RM/qwYtXK8PU22H5MGmOsQyMK3W78zkq1ic3PUa71LOwXWv0xCEh3inGWFckh2HrRJtJLkc6ChLg6fYnmEHCzQ==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@mdx-js/react" "^1.5.5"
     "@theme-ui/presets" "^0.2.44"
     gatsby-plugin-theme-ui "^0.2.53"
-    gatsby-plugin-typescript "^2.1.26"
+    gatsby-plugin-typescript "^2.1.27"
     gatsby-source-circleci "^1.0.3"
     gatsby-source-netlify "^1.0.4"
     theme-ui "^0.2.52"
@@ -5023,7 +5023,7 @@ gatsby-plugin-theme-ui@^0.2.53:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.53.tgz#57a52339e50ede7ef4df0b1b5593d360b56b597d"
   integrity sha512-AlQC+uC9lvrP3LlGsLe0f0azp7B5c49qWl4b3FDj8xbravBoqFmJT7XrNTpYYbxnCnx/K1v0QtwP8qindw0S2g==
 
-gatsby-plugin-typescript@^2.1.26:
+gatsby-plugin-typescript@^2.1.27:
   version "2.1.27"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.1.27.tgz#1b19c7c79e73fa44eebebad4cf067d4dc4ea99c4"
   integrity sha512-c1Iv5tDMR/+V0ylZU6lGHkLCMNfSF/K3/60TTO/HvvS0OqNgX9ccTfD9LAiPDQeGWNPdeMaQx3aYJNKrVKLS1Q==
