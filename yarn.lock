@@ -879,7 +879,7 @@
     "@emotion/utils" "0.11.3"
     "@emotion/weak-memoize" "0.2.5"
 
-"@emotion/core@^10.0.16", "@emotion/core@^10.0.27":
+"@emotion/core@^10.0.16", "@emotion/core@^10.0.28":
   version "10.0.28"
   resolved "https://registry.yarnpkg.com/@emotion/core/-/core-10.0.28.tgz#bb65af7262a234593a9e952c041d0f1c9b9bef3d"
   integrity sha512-pH8UueKYO5jgg0Iq+AmCLxBsvuGtvlmiDCOuv8fGNYn3cowFpLN98L8zO56U0H1PjDIyAlXymgL3Wu7u7v6hbA==
@@ -985,16 +985,16 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.0.16":
-  version "1.0.16"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.16.tgz#ebf05ccffcbc4826e4b80164bb5247bd7a2417d5"
-  integrity sha512-olgTD9VkIKgpOSisMTnqHi/CuvCb9hOa0NWJHW1Uqc0aFtN3zbrQqBn6+x/1ryf2VSRs3cM+uJhUcEsHehnqmA==
+"@lekoarts/gatsby-theme-status-dashboard@^1.0.17":
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.17.tgz#012c19f1d0e32b3a1ff0b3592a8a255e48795aba"
+  integrity sha512-MudEmAG+U+EBj98gmCs7JbozGuzyzs8A4Ta+gFGXMgfDXnMsa0GM1tdzaShfkTgYO+n5bZZ/sGY47TZ3m291ZA==
   dependencies:
-    "@emotion/core" "^10.0.27"
+    "@emotion/core" "^10.0.28"
     "@mdx-js/react" "^1.5.7"
     "@theme-ui/presets" "^0.2.44"
     gatsby-plugin-theme-ui "^0.2.53"
-    gatsby-plugin-typescript "^2.1.27"
+    gatsby-plugin-typescript "^2.2.0"
     gatsby-source-circleci "^1.0.3"
     gatsby-source-netlify "^1.0.4"
     theme-ui "^0.2.52"
@@ -5043,7 +5043,7 @@ gatsby-plugin-theme-ui@^0.2.53:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.53.tgz#57a52339e50ede7ef4df0b1b5593d360b56b597d"
   integrity sha512-AlQC+uC9lvrP3LlGsLe0f0azp7B5c49qWl4b3FDj8xbravBoqFmJT7XrNTpYYbxnCnx/K1v0QtwP8qindw0S2g==
 
-gatsby-plugin-typescript@^2.1.27:
+gatsby-plugin-typescript@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.2.0.tgz#1495f834dd1d72633fff31e7d8505775e255c43e"
   integrity sha512-eQ6/4PnnQnKui4SbeT20vA7gEzDHII2OKKr4Os6fZRLJ8T3Vpw9m8HWeynu0fkX8PaAtEQrCTPw4CbBzRJar0g==
