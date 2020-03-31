@@ -1030,21 +1030,21 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.0.17":
-  version "1.0.17"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.17.tgz#012c19f1d0e32b3a1ff0b3592a8a255e48795aba"
-  integrity sha512-MudEmAG+U+EBj98gmCs7JbozGuzyzs8A4Ta+gFGXMgfDXnMsa0GM1tdzaShfkTgYO+n5bZZ/sGY47TZ3m291ZA==
+"@lekoarts/gatsby-theme-status-dashboard@^1.0.18":
+  version "1.0.18"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.18.tgz#527fa49149e247fdb00e0ab931829781ce3e3eae"
+  integrity sha512-pfMUXq/HDPaDq829Uj2KV3XD5w5b/D3wxZw9ZHyzPpg2zuLtp29MeC5qscZyZVtBq+DK9EbXzaKDZe0DrIhjVw==
   dependencies:
     "@emotion/core" "^10.0.28"
-    "@mdx-js/react" "^1.5.7"
+    "@mdx-js/react" "^1.5.8"
     "@theme-ui/presets" "^0.2.44"
     gatsby-plugin-theme-ui "^0.2.53"
-    gatsby-plugin-typescript "^2.2.0"
+    gatsby-plugin-typescript "^2.3.1"
     gatsby-source-circleci "^1.0.3"
     gatsby-source-netlify "^1.0.4"
     theme-ui "^0.2.52"
 
-"@mdx-js/react@^1.5.7":
+"@mdx-js/react@^1.5.8":
   version "1.5.8"
   resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.5.8.tgz#fc38fe0eb278ae24666b2df3c751e726e33f5fac"
   integrity sha512-L3rehITVxqDHOPJFGBSHKt3Mv/p3MENYlGIwLNYU89/iVqTLMD/vz8hL9RQtKqRoMbKuWpzzLlKIObqJzthNYg==
@@ -5216,7 +5216,7 @@ gatsby-plugin-theme-ui@^0.2.53:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.53.tgz#57a52339e50ede7ef4df0b1b5593d360b56b597d"
   integrity sha512-AlQC+uC9lvrP3LlGsLe0f0azp7B5c49qWl4b3FDj8xbravBoqFmJT7XrNTpYYbxnCnx/K1v0QtwP8qindw0S2g==
 
-gatsby-plugin-typescript@^2.2.0:
+gatsby-plugin-typescript@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.3.1.tgz#fadc8004a85cf2a033f17140e482f7d72fd3bf10"
   integrity sha512-dT+YStwH1CcMk4vCtyNrqefjCqGyVInuXrVnqfOJQD+V6Wxo7gt8t+54uGdsjQJthRCz5xVGO9ylrHvOKzmU9g==
