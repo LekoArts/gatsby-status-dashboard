@@ -1030,7 +1030,7 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.0.18":
+"@lekoarts/gatsby-theme-status-dashboard@^1.0.19":
   version "1.0.19"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.0.19.tgz#47f6a0d890c3dc0960ccbdd26de2e445816d5a8c"
   integrity sha512-ScPiNRQVlx2rhy175Hk0OQ10nC+E9Gn4gvVKxDhSykThYjcdA5oc4boLZpFBQOmNwu0H00Q04AF0Z5zqWhnRKQ==
