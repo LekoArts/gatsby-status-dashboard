@@ -1064,7 +1064,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.0.21":
+"@lekoarts/gatsby-theme-status-dashboard@^1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.1.0.tgz#69b98dd482ce285d629f27e9b771b3cb712543ee"
   integrity sha512-NAkXXsq8k/46/Sd+cdozBuaqBXy3jvyU1iEb/2uHt8EB/x5sB9JDo9wWxD1EtT7DJcpZtyKYrmwAIcnpfEZEOQ==
