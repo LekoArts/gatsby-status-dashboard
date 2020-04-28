@@ -1064,14 +1064,14 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.1.0.tgz#69b98dd482ce285d629f27e9b771b3cb712543ee"
-  integrity sha512-NAkXXsq8k/46/Sd+cdozBuaqBXy3jvyU1iEb/2uHt8EB/x5sB9JDo9wWxD1EtT7DJcpZtyKYrmwAIcnpfEZEOQ==
+"@lekoarts/gatsby-theme-status-dashboard@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.1.1.tgz#1a5a5adb756c871133fd8061508c48845e39f580"
+  integrity sha512-0qlSsKOGDCLlqjA8U9GorvnAlSqjt2BG4SA92Pi5TCu47WdOPbT1SFJkZVuQ2PT4cJnC+WgpKx8UNyXHJAFg7Q==
   dependencies:
     "@theme-ui/presets" "^0.3.0"
     gatsby-plugin-theme-ui "^0.3.0"
-    gatsby-plugin-typescript "^2.3.3"
+    gatsby-plugin-typescript "^2.4.0"
     gatsby-source-circleci "^1.0.3"
     gatsby-source-netlify "^1.0.4"
     theme-ui "^0.3.1"
@@ -5638,7 +5638,7 @@ gatsby-plugin-theme-ui@^0.3.0:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.3.0.tgz#ab84216536ae45abe09a6edf24156b9dbf50d6a5"
   integrity sha512-Q2tS8EeYMy7AAtt6hvDtEsd1uwrLMjkDNqabyXhAo38AFoWQ0oKtq9u1YqbiRvp1TK06pAMPQQ3to48LAqc9Cw==
 
-gatsby-plugin-typescript@^2.3.3:
+gatsby-plugin-typescript@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.4.0.tgz#4ef561acb28ae980e96125f70ae06954fa5de646"
   integrity sha512-PAP6/a83yK7HRv5o0paY000HYL7O4vS0x38t1gxP4tsDpd9L35vNeHeZfklifCE67n9PsElgfSmtCL2Za0M4KQ==
