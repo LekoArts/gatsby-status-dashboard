@@ -1318,17 +1318,17 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lekoarts/gatsby-theme-status-dashboard@^1.1.13":
-  version "1.1.13"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.1.13.tgz#fcd152167c4a3046f733b2c4f3d0f7184d2fc8d2"
-  integrity sha512-/8cQF/NrE8JR2I0oHoX3FWp+I+yLmTqHKoSUbv9JRdIGRmOl6Oy1quCMZkj3PKYLD6mvbIG2WuvXddRHpAnf3A==
+"@lekoarts/gatsby-theme-status-dashboard@^1.1.14":
+  version "1.1.14"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-status-dashboard/-/gatsby-theme-status-dashboard-1.1.14.tgz#1962479918c0655c504b653b7f61690f7a965c38"
+  integrity sha512-cOSXOzxMIpeOBVGKNoQFWxdziONyoEuHOSCrt3craRhcevG06nOul6hOlhGZ16tU/N74roENLAbmGCcFG9vt/Q==
   dependencies:
     "@theme-ui/presets" "^0.3.0"
-    gatsby-plugin-theme-ui "^0.3.0"
-    gatsby-plugin-typescript "^2.4.25"
+    gatsby-plugin-theme-ui "^0.3.3"
+    gatsby-plugin-typescript "^2.5.0"
     gatsby-source-circleci "^1.0.3"
     gatsby-source-netlify "^1.0.4"
-    theme-ui "^0.3.1"
+    theme-ui "^0.3.3"
 
 "@mdx-js/react@^1.0.0":
   version "1.6.21"
@@ -6004,12 +6004,12 @@ gatsby-plugin-react-helmet@^3.3.14:
   dependencies:
     "@babel/runtime" "^7.11.2"
 
-gatsby-plugin-theme-ui@^0.3.0:
+gatsby-plugin-theme-ui@^0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.3.3.tgz#33d6b16c2738e8d52bcf19ed2167d763b2e39e28"
   integrity sha512-SVvDCqggM/OMy4NKk3VCjBndhRKRINW9TAQ9e1rwTXtRlmZjZiif1qOgb4fxVMSvKhCTSGIiwmINgnmNBDow/g==
 
-gatsby-plugin-typescript@^2.4.25, gatsby-plugin-typescript@^2.5.0:
+gatsby-plugin-typescript@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.5.0.tgz#b7daacff18da2926bf7f6a3251785356bec20c52"
   integrity sha512-AGsUvjh/iiX5zo5cR88Rsj0da20oOVgzQK9bidMoDa42tjbskiu7oq6hl6NBo8TCuLeoHvf/enxXF1aByU7JGw==
@@ -12049,7 +12049,7 @@ text-table@0.2.0, text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
 
-theme-ui@^0.3.1:
+theme-ui@^0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/theme-ui/-/theme-ui-0.3.3.tgz#d0294f95fcc2d133c81beafdbf3083fe59059207"
   integrity sha512-tAAkxU6poID5iGUBE/G+sjBhH4OlEYFF6wRjDr3c2mm5Fq5KZ0CA+w+AkKoyTzkxnWaVYhoeb4JZxu/gYSVGtw==
