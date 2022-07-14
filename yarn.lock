@@ -1136,7 +1136,7 @@
   resolved "https://registry.yarnpkg.com/@emotion/memoize/-/memoize-0.7.5.tgz#2c40f81449a4e554e9fc6396910ed4843ec2be50"
   integrity sha512-igX9a37DR2ZPGYtV6suZ6whr8pTFtyHL3K/oLUotxpSVO2ASaprmAe2Dkq7tBo7CRY7MMDrAa9nuQP9/YG8FxQ==
 
-"@emotion/react@^11.1.1", "@emotion/react@^11.4.0":
+"@emotion/react@^11.1.1", "@emotion/react@^11.9.3":
   version "11.9.3"
   resolved "https://registry.yarnpkg.com/@emotion/react/-/react-11.9.3.tgz#f4f4f34444f6654a2e550f5dab4f2d360c101df9"
   integrity sha512-g9Q1GcTOlzOEjqwuLF/Zd9LC+4FljjPjDfxSM7KmEakm+hsHXk+bYZ2q+/hTJzr0OUNkujo72pXLQvXj6H+GJQ==
@@ -6131,7 +6131,7 @@ gatsby-parcel-config@^0.9.2:
     "@parcel/transformer-raw" "2.6.0"
     "@parcel/transformer-react-refresh-wrap" "2.6.0"
 
-gatsby-plugin-emotion@^7.12.1:
+gatsby-plugin-emotion@^7.18.0:
   version "7.18.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-emotion/-/gatsby-plugin-emotion-7.18.0.tgz#c1a5db43c210c13d8f5510c6ec99944ffe421211"
   integrity sha512-zmUuON4oWA5hdFtes6Hf997KeSW2rgBIhxCbU7ZS+ydkUBTa49HDBjtLq2PDAVEhzJO2ntXR5dDOSfY7yxYaBQ==
@@ -6139,7 +6139,7 @@ gatsby-plugin-emotion@^7.12.1:
     "@babel/runtime" "^7.15.4"
     "@emotion/babel-preset-css-prop" "^11.2.0"
 
-gatsby-plugin-gatsby-cloud@^4.12.1:
+gatsby-plugin-gatsby-cloud@^4.18.1:
   version "4.18.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-4.18.1.tgz#3b41576f1e2fc947216683396f76ea693d773761"
   integrity sha512-FDrLl3w3WHVJCzddTYcSCqEi4DLvS9e8/9LY312QnxOqPv+fnLoSDYDyqazyK9/mu6gMz8cUU7UoHsMqpZNbCg==
@@ -6152,7 +6152,7 @@ gatsby-plugin-gatsby-cloud@^4.12.1:
     lodash "^4.17.21"
     webpack-assets-manifest "^5.1.0"
 
-gatsby-plugin-manifest@^4.12.1:
+gatsby-plugin-manifest@^4.18.1:
   version "4.18.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-4.18.1.tgz#e99bacadbf8af8f81e5d32df2612bd0110623288"
   integrity sha512-LR4S/MCbUP7Fk3A4xwrA9nhIx9RjDTAE5DAXfXMKvnh1f6an6d+x9XKDqNnGtixVOnlfy3jK0IxLzC1HCjNKSQ==
@@ -6180,7 +6180,7 @@ gatsby-plugin-page-creator@^4.18.1:
     globby "^11.1.0"
     lodash "^4.17.21"
 
-gatsby-plugin-react-helmet@^5.12.1:
+gatsby-plugin-react-helmet@^5.18.0:
   version "5.18.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-5.18.0.tgz#77a29ebd4907620641418ca75f1ab20c1065ebe5"
   integrity sha512-H55KLoKZ/LeWWILYmkbt+L1c6E2ViurN16GyGOOzIg2LGjd7OXu9zy9H9lMKrkNpn/HUXhyUilYHqVeo5fve1A==
@@ -6293,7 +6293,7 @@ gatsby-worker@^1.18.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^4.12.1:
+gatsby@^4.18.2:
   version "4.18.2"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.18.2.tgz#694613a37c6cb17db59d0efcb6f54486c2e120aa"
   integrity sha512-ZWdo0TXsSRmwlmOeeuoWwXKQNteHm9VxJWF9Ud+c33r7ZXQgTA5WtRYjiBpjZuNAUwsiONNAe+wKK5jVY8B4LQ==
